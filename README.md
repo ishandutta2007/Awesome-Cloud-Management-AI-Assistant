@@ -70,7 +70,7 @@ This repository tracks top-tier **SaaS platforms** and **open-source projects** 
 
 ## 🔓 Open-Source GitHub Projects 🛠️
 
-*Sorted by GitHub Stars_Count (Descending). Stars_Badges link directly to repo stargazers pages.*
+*Sorted by GitHub_Stars_Count (Descending). Stars_Badges link directly to repo stargazers pages.*
 
 | Open-Source Repo 📦 | Description 📜 | GitHub_Stars ⭐ |
 |:---|:---|:---|
